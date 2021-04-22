@@ -40,4 +40,6 @@ git pull
 
 git clone
 
+git log
+
 
