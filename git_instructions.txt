@@ -1,5 +1,7 @@
 git init
 
+git help
+
 git status
 
 git add index.html
